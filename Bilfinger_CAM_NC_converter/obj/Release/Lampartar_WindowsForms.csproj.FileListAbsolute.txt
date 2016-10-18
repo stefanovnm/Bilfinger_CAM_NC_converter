@@ -1,0 +1,20 @@
+C:\Users\Nikola\documents\visual studio 2013\Projects\Test_forms\Test_forms\bin\Release\Test_forms.exe.config
+C:\Users\Nikola\documents\visual studio 2013\Projects\Test_forms\Test_forms\bin\Release\Logo.ico
+C:\Users\Nikola\documents\visual studio 2013\Projects\Test_forms\Test_forms\bin\Release\Test_forms.exe
+C:\Users\Nikola\documents\visual studio 2013\Projects\Test_forms\Test_forms\bin\Release\Test_forms.pdb
+C:\Users\Nikola\documents\visual studio 2013\Projects\Test_forms\Test_forms\obj\Release\Test_forms.Form1.resources
+C:\Users\Nikola\documents\visual studio 2013\Projects\Test_forms\Test_forms\obj\Release\Test_forms.Properties.Resources.resources
+C:\Users\Nikola\documents\visual studio 2013\Projects\Test_forms\Test_forms\obj\Release\Lampartar_WindowsForms.csproj.GenerateResource.Cache
+C:\Users\Nikola\documents\visual studio 2013\Projects\Test_forms\Test_forms\obj\Release\Test_forms.exe
+C:\Users\Nikola\documents\visual studio 2013\Projects\Test_forms\Test_forms\obj\Release\Test_forms.pdb
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\Test_forms\Test_forms\obj\Release\Lampartar_WindowsForms.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\rev5\Test_forms\bin\Release\Test_forms.exe.config
+C:\Users\User\Desktop\rev5\Test_forms\obj\Release\Test_forms.exe
+C:\Users\User\Desktop\rev5\Test_forms\obj\Release\Test_forms.pdb
+C:\Users\User\Desktop\rev5\Test_forms\bin\Release\Logo.ico
+C:\Users\User\Desktop\rev5\Test_forms\bin\Release\Test_forms.exe
+C:\Users\User\Desktop\rev5\Test_forms\bin\Release\Test_forms.pdb
+C:\Users\User\Desktop\rev5\Test_forms\obj\Release\Lampartar_WindowsForms.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\rev5\Test_forms\obj\Release\Test_forms.Form1.resources
+C:\Users\User\Desktop\rev5\Test_forms\obj\Release\Test_forms.Properties.Resources.resources
+C:\Users\User\Desktop\rev5\Test_forms\obj\Release\Lampartar_WindowsForms.csproj.GenerateResource.Cache

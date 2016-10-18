@@ -1,0 +1,10 @@
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\Test_forms\Test_forms\bin\Debug\Test_forms.exe.config
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\Test_forms\Test_forms\obj\Debug\Test_forms.exe
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\Test_forms\Test_forms\obj\Debug\Test_forms.pdb
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\Test_forms\Test_forms\bin\Debug\Logo.ico
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\Test_forms\Test_forms\bin\Debug\Test_forms.exe
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\Test_forms\Test_forms\bin\Debug\Test_forms.pdb
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\Test_forms\Test_forms\obj\Debug\Lampartar_WindowsForms.csprojResolveAssemblyReference.cache
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\Test_forms\Test_forms\obj\Debug\Test_forms.Form1.resources
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\Test_forms\Test_forms\obj\Debug\Test_forms.Properties.Resources.resources
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\Test_forms\Test_forms\obj\Debug\Lampartar_WindowsForms.csproj.GenerateResource.Cache
